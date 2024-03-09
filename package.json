@@ -1,0 +1,26 @@
+{
+  "name": "Oolong_pkg",
+  "version": "1.0.0",
+  "description": "A sample npm package",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jed-Zeng/TeaProject.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "Jed Zeng",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
